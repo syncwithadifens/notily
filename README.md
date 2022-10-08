@@ -1,6 +1,6 @@
 # notily
 
-Buat Note Taking Apps Flutter + Firebase Firestore
+Buat Note Taking Apps Flutter + Firebase Firestore <br>
 Fitur yang dimiliki:
 
 - [x] Create Note
