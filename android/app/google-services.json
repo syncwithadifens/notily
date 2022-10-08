@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235221597619",
+    "project_id": "notily-d92b9",
+    "storage_bucket": "notily-d92b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235221597619:android:cdd900df1e237581cf1fc6",
+        "android_client_info": {
+          "package_name": "com.example.notily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235221597619-q0sforud6fputul2k1p8gf4i2d486go2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWskBnjnOMTRAThjuWtNhNOgm3dd3oElo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235221597619-q0sforud6fputul2k1p8gf4i2d486go2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
