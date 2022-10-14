@@ -10,7 +10,5 @@ Fitur yang dimiliki:
 
 ## Preview
 
-| ![](assets/github-preview/Screenshot_20221008_061413.png) |
-| ![](assets/github-preview/Screenshot_20221008_061441.png) |
-| ![](assets/github-preview/Screenshot_20221008_061427.png) |
-| ![](assets/github-preview/Screenshot_20221008_061433.png) |
+| ![](assets/github-preview/Screenshot_20221008_061413.png) | ![](assets/github-preview/Screenshot_20221008_061441.png) |
+| ![](assets/github-preview/Screenshot_20221008_061427.png) | ![](assets/github-preview/Screenshot_20221008_061433.png) |
